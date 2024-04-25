@@ -44,3 +44,9 @@ body{
     font-size: 60px;
 }
 
+@media (max-width: 768px){
+    .relogio {
+        display: block;
+        
+    }
+}
