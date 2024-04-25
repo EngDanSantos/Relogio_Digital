@@ -47,6 +47,6 @@ body{
 @media (max-width: 768px){
     .relogio {
         display: block;
-        
+        align-items: center;        
     }
 }
